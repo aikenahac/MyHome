@@ -5,7 +5,7 @@ A custom Flutter app for my smart home.
 ## Used APIs
 
 - [Hue API](https://developers.meethue.com/develop/hue-api/) (Requires registration)
-- [Nuki API](https://developer.nuki.io/page/nuki-web-api-1-3-0/3)
+- [Nuki API](https://developer.nuki.io/page/nuki-web-api-1-3-0/3) (Requires registration)
 
 ## How to compile development version
 
